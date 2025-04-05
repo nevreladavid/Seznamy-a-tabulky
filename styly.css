@@ -88,8 +88,7 @@ body {
 }
 
 table {
-    width: 70%;
-    margin: 20px auto;
+    width: 100%;
     border-collapse: collapse;
     background-color: white;
 }
